@@ -1,0 +1,9 @@
+{
+  "name": "ms-hacker-ip-intel",
+  "version": "1.0.0",
+  "description": "Advanced IP Intelligence API by @MS_HAC4KER",
+  "main": "index.js",
+  "dependencies": {
+    "axios": "^1.6.0"
+  }
+}
